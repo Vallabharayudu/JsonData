@@ -1,0 +1,30 @@
+[{
+"CategoryId": 1,
+"CategoryName": "System & Delivery",
+"IsActive": "true",
+"RiskCategoryName": "Moderate-High Risk",
+"PassedCount": 1,
+"FailedCount": 7,
+"Unanswered": 0,
+"Percentage": 100
+},
+{
+"CategoryId": 2,
+"CategoryName": "Internal Governance",
+"IsActive": true,
+"RiskCategoryName": "Risk Unavailable",
+"PassedCount": 1,
+"FailedCount": 1,
+"Unanswered": 6,
+"Percentage": 25
+},
+{
+"CategoryId": 3,
+"CategoryName": "Approach to Tax Complicance",
+"IsActive": true,
+"RiskCategoryName": "Risk Unavailable",
+"PassedCount": 0,
+"FailedCount": 0,
+"Unanswered": 8,
+"Percentage": 0
+}]
